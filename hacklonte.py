@@ -12,7 +12,7 @@ print("|_|    \___/ \____|_____|_|\_\ (_|_|_)")
   print ("author = Rimuru-sama")
 }
 {
-  print ("masih smp loh goblox!!")
+  print ("lonte gratus cok mau kan")
 }
 {
  print ("team = loli team")
